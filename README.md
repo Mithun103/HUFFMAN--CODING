@@ -19,8 +19,8 @@ print the characters and its huffmancode
 
  
 ## Program:
-NAME : AJAY ASWIN M
-REGISTER NUMBER: 212222240005
+NAME : MITHUN M S
+REGISTER NUMBER: 212222240067
 # Get the input String
 ```python
 string = 'DIGITAL IMAGE'
